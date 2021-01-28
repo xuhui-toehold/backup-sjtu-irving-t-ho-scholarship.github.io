@@ -21,7 +21,7 @@
   <div align="right">邓舒文（16届本科校友，14年奖学金获得者）</div>
 
 
-二零二一年一月
+<div align="right">二零二一年一月</div>
 
 
 
