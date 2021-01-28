@@ -20,7 +20,7 @@
 <div align="right">杜家全（13届硕士校友，何宜慈基金会名誉院士）</div>
 <div align="right">邓舒文（16届本科校友，14年奖学金获得者）</div>
   
-<div align="right"><p>二零二一年一月</p></div>
+<p align="right">二零二一年一月</p>
 
 
 
