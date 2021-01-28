@@ -107,7 +107,7 @@
 * 首选捐款方式：如果捐款人有美元Paypal账户，美国信用卡，或者支持美元支付的国际信用卡(VISA, MasterCard, American Express, Discover等)，请直接在线向SJTUFA捐款
   * SJTUFA tax ID: 76-0802983
   * 请至 [http://www.sjtufa.org/donations.htm](http://www.sjtufa.org/donations.htm) 使用Online捐款下的Donate按钮。
-  * 图文教程请见此[链接](https://sjtu-irving-t-ho-scholarship.github.io/fundraising-2021/sjtufa-donation)。
+  * 图文教程请见此[链接](sjtufa-donation)。
   * 捐款完成后请通知您的捐款联系人或发邮件给我们(Email地址见文后[联系方式](#联系方式))，以便我们与SJTUFA确认。
   * 捐款完成后会收到Paypal发送的捐款收据，可作为抵税证明。
   * Paypal在捐款方不会收取手续费，在接收方会收取约3%手续费，我们会后续根据具体情况考虑另行补足，请各位捐款人知悉。
