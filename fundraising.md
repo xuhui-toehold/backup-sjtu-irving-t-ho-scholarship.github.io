@@ -106,7 +106,7 @@
   
 * 首选捐款方式：如果捐款人有美元Paypal账户，美国信用卡，或者支持美元支付的国际信用卡(VISA, MasterCard, American Express, Discover等)，请直接在线向SJTUFA捐款
   * SJTUFA tax ID: 76-0802983
-  * 请至http://www.sjtufa.org/donations.htm，使用Online捐款下的Donate按钮。
+  * 请至 http://www.sjtufa.org/donations.htm 使用Online捐款下的Donate按钮。
   * 图文教程请见此链接。
   * 捐款完成后请通知您的捐款联系人或发邮件给我们(Email地址见文后联系方式)，以便我们与SJTUFA确认。
   * 捐款完成后会收到Paypal发送的捐款收据，可作为抵税证明。
@@ -123,7 +123,7 @@
   * CTUAFA tax ID:  23-7241445
   * 公司捐赠网站：请联系各自公司捐赠机构确认捐款方法。一般可使用CTUAFA tax ID进行捐赠。提交捐款时请备注“Please kindly forward the donation to SJTUFA for the purpose of establishing SJTU Irving T. Ho Memorial Scholarship.”
   * 公司配捐：请联系各自公司捐赠机构查询公司是否有配捐政策以增加捐款金额。一般可使用CTUAFA tax ID进行捐赠。也请查询公司配捐的时间点(有些公司一个季度配捐一次)，以确保配捐金额能够及时到账。提交配捐时请备注“Please kindly forward the donation to SJTUFA for the purpose of establishing SJTU Irving T. Ho Memorial Scholarship.”
-  * Check: payable to CTUAFA, 70 West 36th Street, Suite 700, New York, NY 10018, USA. (请注意CTUAFA是交通大学美洲校友会CTUAAA的附属基金会，两者的简称非常相近，请不要混淆。支票收款方应为CTUAFA)。请按CTUAFA要求填写捐赠表格http://ctuaaa.org/forms并随支票寄送或发至email: office@ctuaaa.org  (请注意Email后缀为ctuaaa.org，不是ctuafa.org)。表格中“Donation Objective”请选择“Other”并注明：“Please kindly forward the donation to SJTUFA for the purpose of establishing SJTU Irving T. Ho Memorial Scholarship.”
+  * Check: payable to CTUAFA, 70 West 36th Street, Suite 700, New York, NY 10018, USA. (请注意CTUAFA是交通大学美洲校友会CTUAAA的附属基金会，两者的简称非常相近，请不要混淆。支票收款方应为CTUAFA)。请按CTUAFA要求填写捐赠表格 http://ctuaaa.org/forms 并随支票寄送或发至email: office@ctuaaa.org  (请注意Email后缀为ctuaaa.org，不是ctuafa.org)。表格中“Donation Objective”请选择“Other”并注明：“Please kindly forward the donation to SJTUFA for the purpose of establishing SJTU Irving T. Ho Memorial Scholarship.”
 
 * 如果捐款人非现居美国且无法使用Paypal或者信用卡捐款
   * 请通过美国联系人或者募捐发起人之一向SJTUFA捐款。参见上述关于交大配捐的解释，请尽量使用这种方式捐款。如有不便之处，敬请谅解！
