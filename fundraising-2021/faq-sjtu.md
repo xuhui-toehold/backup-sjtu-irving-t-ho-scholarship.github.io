@@ -54,7 +54,7 @@
 **A:** 募捐发起人将每年跟踪奖学金发放情况，向学校/学院获取奖学金获得者名单，并分享给捐款人。根据过去的经验，电子信息与电气工程学院，致远学院都会在网上发布奖学金开放申请和确认的通知，捐款人也可以自行查询。请参考：[http://xsb.seiee.sjtu.edu.cn/xsb/info/31849.htm](http://xsb.seiee.sjtu.edu.cn/xsb/info/31849.htm)，[https://zhiyuan.sjtu.edu.cn/html/zhiyuan/announcement_list.php?category=4](https://zhiyuan.sjtu.edu.cn/html/zhiyuan/announcement_list.php?category=4)
 
 **Q:** 如何捐款？<br>
-**A:** 如果捐款人没有公司配捐，首选方式是通过上海交通大学美洲基金会SJTUFA的在线捐款页面，具体操作请见[此处](https://sjtu-irving-t-ho-scholarship.github.io/fundraising-2021/sjtufa-donation)。如果捐款人有公司配捐，请捐款给交通大学美洲校友基金会CTUAFA。一般可以通过公司捐款网站使用 CTUAFA Tax ID 23-7241445 进行捐款并申请配捐。
+**A:** 如果捐款人没有公司配捐，首选方式是通过上海交通大学美洲基金会SJTUFA的在线捐款页面，具体操作请见[此处](sjtufa-donation)。如果捐款人有公司配捐，请捐款给交通大学美洲校友基金会CTUAFA。一般可以通过公司捐款网站使用 CTUAFA Tax ID 23-7241445 进行捐款并申请配捐。
 
 **Q:** 为什么要捐给上海交通大学美洲基金会SJTUFA?<br>
 **A:** 本次募捐的发起人大多数现居美国，所以捐款的主要途径是通过[上海交通大学美洲基金会(SJTUFA)](http://www.sjtufa.org/)。SJTUFA再统一转回交大上海基金会。
